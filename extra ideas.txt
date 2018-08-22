@@ -1,0 +1,22 @@
+ <div class="half-width">
+                <nav>
+                    <ul>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+<!---ABOUT-->
+        <main>
+        <section id="about">
+            <div class="full-width" "w3-container">
+                <h2>My Story.</h2>
+                <p>I grew up in a small town in the Mt. Rainier valley in beautiful western Washington, and I've found my home in the beautiful countryside of Tuscany. I love combining my creativity with my passion for helping others.</p>
+                </div>
+
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'EB Garamond', serif;
